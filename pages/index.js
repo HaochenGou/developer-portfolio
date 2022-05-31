@@ -28,8 +28,9 @@ export default function Home({ githubProfileData }) {
 						"Haochen Gou",
 						"Website",
 						"Developer",
-						"SEO"
-						
+						"SEO",
+						"Application",
+												
 					],
 				}}
 			/>
