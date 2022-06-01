@@ -167,7 +167,7 @@ export const experience = [
 		role: "Web Developer",
 		company: "WillowStone Marketing",
 		companylogo: "/img/icons/common/WillowStoneMarketing.jpg",
-		date: "Nov 2021 – present",
+		date: "Jan 2021 – Jan 2022",
 		desc: "Worked as a only developer in a Marketing company with the design team developed website and application for the client. Have developed excellent performance products to satisfy customers and help win contracts.",
 	},
 	{
@@ -182,42 +182,42 @@ export const experience = [
 export const projects = [
 	{
 		name: "Autoplex",
-		desc: "A website for the cardealer",
-		link: "https://atlasmart.netlify.app/",
+		desc: "A website for the cardealership Autoplex",
+		link: "www.autoplexalberta.ca",
 	},
 	{
-		name: "Technota (Forum)",
-		desc: "Get hands-on experience in technical skills with Technota",
-		link: "https://technota.netlify.app/",
+		name: "Hawke prohibition Distilleries Website",
+		desc: "A website for the Hawke prohibition Distilleries ",
+		link: "https://hawkeprohibition.com/",
 	},
 	{
-		name: "Shopaza (Ecommerce)",
-		desc: "Now your reach to all your favorite entertainment and luxury items is just one touch apart",
-		link: "https://shopaza.herokuapp.com/",
+		name: "",
+		desc: "",
+		link: "",
 	},
 	{
-		name: "MMFmelody (Blog)",
-		desc: "Here you will find amazing tips about health, beauty, and modern-day life.",
-		// github: "https://github.com/1hanzla100",
-		link: "https://mmfmelody.herokuapp.com/",
+		name: "",
+		desc: "",
+		// github: "",
+		link: "",
 	},
 	{
-		name: "Developer-Portfolio",
-		desc: "Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.",
-		github: "https://github.com/1hanzla100/developer-portfolio",
-		link: "https://developer-portfolio-1hanzla100.vercel.app/",
+		name: "",
+		desc: "",
+		github: "",
+		link: "",
 	},
 ];
 
 export const feedbacks = [
 	{
-		name: "John Smith",
+		name: "",
 		feedback:
-			"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.",
+			"",
 	},
 	{
-		name: "John Smith",
+		name: "",
 		feedback:
-			"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.",
+			"",
 	},
 ];
