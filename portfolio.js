@@ -4,7 +4,7 @@ export const greetings = {
 	name: "Haochen Gou",
 	title: "Hi all, I'm Haochen",
 	description:
-		"I'm passionate Full Stack web developer having an experience of web applications with Python, Django, React.js, Next.js and Blockchain development on Ethereum, Solidity, Web3.js, Moralis, and Brownie Framework.",
+		"I'm passionate Full Stack web developer having an experience of web applications with Python, Django, React.js, Next.js.",
 	resumeLink:
 		"https://www.linkedin.com/in/haochen-gou-397823219/",
 };
@@ -149,6 +149,18 @@ export const SkillBars = [
 		progressPercentage: "70",
 	},
 	{
+		Stack: "Application",
+		progressPercentage: "80",
+	},
+	{
+		Stack: "Coding",
+		progressPercentage: "70",
+	},
+	{
+		Stack: "SEO",
+		progressPercentage: "80",
+	},
+	{
 		Stack: "Programming",
 		progressPercentage: "80",
 	},
@@ -183,7 +195,7 @@ export const projects = [
 	{
 		name: "Autoplex",
 		desc: "A website for the cardealership Autoplex",
-		link: "www.autoplexalberta.ca",
+		link: "https://www.autoplexalberta.ca/",
 	},
 	{
 		name: "Hawke prohibition Distilleries Website",
