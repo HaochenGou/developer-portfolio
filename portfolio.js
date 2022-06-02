@@ -166,30 +166,30 @@ export const SkillBars = [
 	},
 ];
 
-export const educationInfo = [
-	{
-		schoolName: "University of Alberta",
-		subHeader: "Bachelor of Science with Specialization program, Computing Science",
-		duration: "September 2017 - November 2021",
-	},
-];
+// export const educationInfo = [
+// 	{
+// 		schoolName: "University of Alberta",
+// 		subHeader: "Bachelor of Science with Specialization program, Computing Science",
+// 		duration: "September 2017 - November 2021",
+// 	},
+// ];
 
-export const experience = [
-	{
-		role: "Web Developer",
-		company: "WillowStone Marketing",
-		companylogo: "/img/icons/common/WillowStoneMarketing.jpg",
-		date: "Jan 2021 – Jan 2022",
-		desc: "Worked as a only developer in a Marketing company with the design team developed website and application for the client. Have developed excellent performance products to satisfy customers and help win contracts.",
-	},
-	{
-		role: "Full Stack Developer",
-		company: "Hawke Prohibition Distilleries",
-		companylogo: "/img/icons/common/HawkeProhibitionDistilleries.jpg",
-		date: "Jan 2022 - present",
-		desc: "Work as the only programmer developed the e-commerce website based on React effectively Providing tech services on SEO, website building and hosting for clients.Satisfied customer-oriented development, work closely with business ensure to achieve clients’ requirements, effectively consult on solutions",
-	},
-];
+// export const experience = [
+// 	{
+// 		role: "Web Developer",
+// 		company: "WillowStone Marketing",
+// 		companylogo: "/img/icons/common/WillowStoneMarketing.jpg",
+// 		date: "Jan 2021 – Jan 2022",
+// 		desc: "Worked as a only developer in a Marketing company with the design team developed website and application for the client. Have developed excellent performance products to satisfy customers and help win contracts.",
+// 	},
+// 	{
+// 		role: "Full Stack Developer",
+// 		company: "Hawke Prohibition Distilleries",
+// 		companylogo: "/img/icons/common/HawkeProhibitionDistilleries.jpg",
+// 		date: "Jan 2022 - present",
+// 		desc: "Work as the only programmer developed the e-commerce website based on React effectively Providing tech services on SEO, website building and hosting for clients.Satisfied customer-oriented development, work closely with business ensure to achieve clients’ requirements, effectively consult on solutions",
+// 	},
+// ];
 
 export const projects = [
 	{
@@ -223,13 +223,18 @@ export const projects = [
 
 export const feedbacks = [
 	{
-		name: "",
+		name: "Terri",
 		feedback:
-			"",
+			"Love their story. Hawke and Alana (and their crew) are such passionate, hardworking, great people. Love the small business story and sending vibes out to the universe to make it happen for these great humans. I bought their ‘GOLD medal winning’ vodka and their Periwinkle gin. Both delicious! Aim for the stars, you’re on your way!",
 	},
 	{
-		name: "",
+		name: "Terri",
 		feedback:
-			"",
+			"Love their story. Hawke and Alana (and their crew) are such passionate, hardworking, great people. Love the small business story and sending vibes out to the universe to make it happen for these great humans. I bought their ‘GOLD medal winning’ vodka and their Periwinkle gin. Both delicious! Aim for the stars, you’re on your way!",
+	},
+	{
+		name: "Terri",
+		feedback:
+			"Love their story. Hawke and Alana (and their crew) are such passionate, hardworking, great people. Love the small business story and sending vibes out to the universe to make it happen for these great humans. I bought their ‘GOLD medal winning’ vodka and their Periwinkle gin. Both delicious! Aim for the stars, you’re on your way!",
 	},
 ];
