@@ -1,6 +1,6 @@
 {
 	"name": "developer-portfolio",
-	"homepage": "https://github.com/HaochenGou/developer-portfolio",
+	"homepage": "https://HaochenGou.github.io",
 	"version": "1.0.0",
 	"description": "Software Developer Portfolio Template built with react.js bootstrap that helps you showcase your work and skills as a software developer.",
 	"main": "index.js",
@@ -10,7 +10,8 @@
 	"scripts": {
 		"dev": "next dev",
 		"build": "next build",
-		"deploy": "gh-pages -d build",
+		"predeploy": "npm run build",
+		"deploy": "gh-pages -b master -d build",
 		"start": "next start",
 		"lint": "next lint"
 	},
